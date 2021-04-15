@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E76323E82627EC3500F0598B /* Whatsapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Whatsapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E76323E82627EC3500F0598B /* Whatsapp_Settings.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Whatsapp_Settings.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E76323EB2627EC3600F0598B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E76323ED2627EC3600F0598B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E76323EF2627EC3600F0598B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		E76323E92627EC3500F0598B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E76323E82627EC3500F0598B /* Whatsapp.app */,
+				E76323E82627EC3500F0598B /* Whatsapp_Settings.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E76323E72627EC3500F0598B /* Whatsapp */ = {
+		E76323E72627EC3500F0598B /* Whatsapp_Settings */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E76323FC2627EC3B00F0598B /* Build configuration list for PBXNativeTarget "Whatsapp" */;
+			buildConfigurationList = E76323FC2627EC3B00F0598B /* Build configuration list for PBXNativeTarget "Whatsapp_Settings" */;
 			buildPhases = (
 				E76323E42627EC3500F0598B /* Sources */,
 				E76323E52627EC3500F0598B /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Whatsapp;
+			name = Whatsapp_Settings;
 			productName = Whatsapp;
-			productReference = E76323E82627EC3500F0598B /* Whatsapp.app */;
+			productReference = E76323E82627EC3500F0598B /* Whatsapp_Settings.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E76323E32627EC3500F0598B /* Build configuration list for PBXProject "Whatsapp" */;
+			buildConfigurationList = E76323E32627EC3500F0598B /* Build configuration list for PBXProject "Whatsapp_Settings" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E76323E72627EC3500F0598B /* Whatsapp */,
+				E76323E72627EC3500F0598B /* Whatsapp_Settings */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E76323E32627EC3500F0598B /* Build configuration list for PBXProject "Whatsapp" */ = {
+		E76323E32627EC3500F0598B /* Build configuration list for PBXProject "Whatsapp_Settings" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E76323FA2627EC3B00F0598B /* Debug */,
@@ -331,7 +331,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E76323FC2627EC3B00F0598B /* Build configuration list for PBXNativeTarget "Whatsapp" */ = {
+		E76323FC2627EC3B00F0598B /* Build configuration list for PBXNativeTarget "Whatsapp_Settings" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E76323FD2627EC3B00F0598B /* Debug */,
